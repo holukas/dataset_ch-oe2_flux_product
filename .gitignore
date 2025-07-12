@@ -1,6 +1,9 @@
+*.parquet
+*.csv
 /.obsidian
 /dataset_ch-oe2_flux_product/_build
 /dataset_ch-oe2_flux_product/.obsidian
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
