@@ -1,3 +1,6 @@
+/.obsidian
+/dataset_ch-oe2_flux_product/.obsidian
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
